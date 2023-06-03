@@ -11,6 +11,28 @@
 		61327EED2A2B76340005CD6A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61327EEC2A2B76340005CD6A /* ContentView.swift */; };
 		61327EEF2A2B76350005CD6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61327EEE2A2B76350005CD6A /* Assets.xcassets */; };
 		61327EF22A2B76350005CD6A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61327EF12A2B76350005CD6A /* Preview Assets.xcassets */; };
+		61327EF92A2B79990005CD6A /* ChatCPTViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61327EF82A2B79990005CD6A /* ChatCPTViewModel.swift */; };
+		61327EFB2A2B7BFE0005CD6A /* ChatGPTResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61327EFA2A2B7BFE0005CD6A /* ChatGPTResponse.swift */; };
+		61327F002A2B9A280005CD6A /* ElevenlabsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61327EFF2A2B9A280005CD6A /* ElevenlabsViewModel.swift */; };
+		61327F022A2B9AF70005CD6A /* ElevenLabsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61327F012A2B9AF70005CD6A /* ElevenLabsManager.swift */; };
+		61327F042A2B9C0C0005CD6A /* ElevenLabsAudioPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61327F032A2B9C0C0005CD6A /* ElevenLabsAudioPlayerView.swift */; };
+		61327F0C2A2B9FF00005CD6A /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61327F0B2A2B9FF00005CD6A /* SettingsView.swift */; };
+		61327F0E2A2BA20A0005CD6A /* AppSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61327F0D2A2BA20A0005CD6A /* AppSettings.swift */; };
+		614168B32A2BA7D500BC1A62 /* VoiceList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614168B22A2BA7D500BC1A62 /* VoiceList.swift */; };
+		614168B52A2BAB3B00BC1A62 /* Rachel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 614168B42A2BAB3B00BC1A62 /* Rachel.mp3 */; };
+		614168BA2A2BAE2A00BC1A62 /* Sam.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 614168B92A2BAE2A00BC1A62 /* Sam.mp3 */; };
+		614168C02A2BAE3300BC1A62 /* Arnold.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 614168BB2A2BAE3300BC1A62 /* Arnold.mp3 */; };
+		614168C12A2BAE3300BC1A62 /* Josh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 614168BC2A2BAE3300BC1A62 /* Josh.mp3 */; };
+		614168C22A2BAE3300BC1A62 /* Bella.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 614168BD2A2BAE3300BC1A62 /* Bella.mp3 */; };
+		614168C32A2BAE3300BC1A62 /* Elli.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 614168BE2A2BAE3300BC1A62 /* Elli.mp3 */; };
+		614168C42A2BAE3300BC1A62 /* Domi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 614168BF2A2BAE3300BC1A62 /* Domi.mp3 */; };
+		614168C62A2BB26900BC1A62 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614168C52A2BB26900BC1A62 /* ListView.swift */; };
+		614168C82A2BB27000BC1A62 /* ProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614168C72A2BB27000BC1A62 /* ProgressView.swift */; };
+		614168CB2A2BB97400BC1A62 /* ChatViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614168CA2A2BB97400BC1A62 /* ChatViewModel.swift */; };
+		614168CE2A2BBC1D00BC1A62 /* AudioBubbleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614168CD2A2BBC1D00BC1A62 /* AudioBubbleView.swift */; };
+		614168D02A2BBE9E00BC1A62 /* UserBubbleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614168CF2A2BBE9E00BC1A62 /* UserBubbleView.swift */; };
+		614168D22A2BC08100BC1A62 /* Adam.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 614168D12A2BC08000BC1A62 /* Adam.mp3 */; };
+		614168D42A2BC0E500BC1A62 /* Antoni.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 614168D32A2BC0E500BC1A62 /* Antoni.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +41,28 @@
 		61327EEC2A2B76340005CD6A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		61327EEE2A2B76350005CD6A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		61327EF12A2B76350005CD6A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		61327EF82A2B79990005CD6A /* ChatCPTViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatCPTViewModel.swift; sourceTree = "<group>"; };
+		61327EFA2A2B7BFE0005CD6A /* ChatGPTResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatGPTResponse.swift; sourceTree = "<group>"; };
+		61327EFF2A2B9A280005CD6A /* ElevenlabsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElevenlabsViewModel.swift; sourceTree = "<group>"; };
+		61327F012A2B9AF70005CD6A /* ElevenLabsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElevenLabsManager.swift; sourceTree = "<group>"; };
+		61327F032A2B9C0C0005CD6A /* ElevenLabsAudioPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElevenLabsAudioPlayerView.swift; sourceTree = "<group>"; };
+		61327F0B2A2B9FF00005CD6A /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		61327F0D2A2BA20A0005CD6A /* AppSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppSettings.swift; sourceTree = "<group>"; };
+		614168B22A2BA7D500BC1A62 /* VoiceList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoiceList.swift; sourceTree = "<group>"; };
+		614168B42A2BAB3B00BC1A62 /* Rachel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Rachel.mp3; sourceTree = "<group>"; };
+		614168B92A2BAE2A00BC1A62 /* Sam.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Sam.mp3; sourceTree = "<group>"; };
+		614168BB2A2BAE3300BC1A62 /* Arnold.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Arnold.mp3; sourceTree = "<group>"; };
+		614168BC2A2BAE3300BC1A62 /* Josh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Josh.mp3; sourceTree = "<group>"; };
+		614168BD2A2BAE3300BC1A62 /* Bella.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Bella.mp3; sourceTree = "<group>"; };
+		614168BE2A2BAE3300BC1A62 /* Elli.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Elli.mp3; sourceTree = "<group>"; };
+		614168BF2A2BAE3300BC1A62 /* Domi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Domi.mp3; sourceTree = "<group>"; };
+		614168C52A2BB26900BC1A62 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		614168C72A2BB27000BC1A62 /* ProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressView.swift; sourceTree = "<group>"; };
+		614168CA2A2BB97400BC1A62 /* ChatViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewModel.swift; sourceTree = "<group>"; };
+		614168CD2A2BBC1D00BC1A62 /* AudioBubbleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioBubbleView.swift; sourceTree = "<group>"; };
+		614168CF2A2BBE9E00BC1A62 /* UserBubbleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserBubbleView.swift; sourceTree = "<group>"; };
+		614168D12A2BC08000BC1A62 /* Adam.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Adam.mp3; sourceTree = "<group>"; };
+		614168D32A2BC0E500BC1A62 /* Antoni.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Antoni.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +97,13 @@
 			children = (
 				61327EEA2A2B76340005CD6A /* ChatGTP_AudioApp.swift */,
 				61327EEC2A2B76340005CD6A /* ContentView.swift */,
+				614168C52A2BB26900BC1A62 /* ListView.swift */,
+				614168C72A2BB27000BC1A62 /* ProgressView.swift */,
+				614168CC2A2BBC0B00BC1A62 /* Chat */,
+				61327F0A2A2B9FE40005CD6A /* Settings */,
+				61327EFE2A2B9A130005CD6A /* ElevenLabs */,
+				61327EFD2A2B9A0D0005CD6A /* GPT */,
+				614168B62A2BAB4100BC1A62 /* Premade Voices */,
 				61327EEE2A2B76350005CD6A /* Assets.xcassets */,
 				61327EF02A2B76350005CD6A /* Preview Content */,
 			);
@@ -65,6 +116,61 @@
 				61327EF12A2B76350005CD6A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		61327EFD2A2B9A0D0005CD6A /* GPT */ = {
+			isa = PBXGroup;
+			children = (
+				61327EF82A2B79990005CD6A /* ChatCPTViewModel.swift */,
+				61327EFA2A2B7BFE0005CD6A /* ChatGPTResponse.swift */,
+			);
+			path = GPT;
+			sourceTree = "<group>";
+		};
+		61327EFE2A2B9A130005CD6A /* ElevenLabs */ = {
+			isa = PBXGroup;
+			children = (
+				61327F012A2B9AF70005CD6A /* ElevenLabsManager.swift */,
+				61327F032A2B9C0C0005CD6A /* ElevenLabsAudioPlayerView.swift */,
+				61327EFF2A2B9A280005CD6A /* ElevenlabsViewModel.swift */,
+			);
+			path = ElevenLabs;
+			sourceTree = "<group>";
+		};
+		61327F0A2A2B9FE40005CD6A /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				61327F0B2A2B9FF00005CD6A /* SettingsView.swift */,
+				614168B22A2BA7D500BC1A62 /* VoiceList.swift */,
+				61327F0D2A2BA20A0005CD6A /* AppSettings.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		614168B62A2BAB4100BC1A62 /* Premade Voices */ = {
+			isa = PBXGroup;
+			children = (
+				614168D12A2BC08000BC1A62 /* Adam.mp3 */,
+				614168BB2A2BAE3300BC1A62 /* Arnold.mp3 */,
+				614168BD2A2BAE3300BC1A62 /* Bella.mp3 */,
+				614168D32A2BC0E500BC1A62 /* Antoni.mp3 */,
+				614168BF2A2BAE3300BC1A62 /* Domi.mp3 */,
+				614168BE2A2BAE3300BC1A62 /* Elli.mp3 */,
+				614168BC2A2BAE3300BC1A62 /* Josh.mp3 */,
+				614168B42A2BAB3B00BC1A62 /* Rachel.mp3 */,
+				614168B92A2BAE2A00BC1A62 /* Sam.mp3 */,
+			);
+			path = "Premade Voices";
+			sourceTree = "<group>";
+		};
+		614168CC2A2BBC0B00BC1A62 /* Chat */ = {
+			isa = PBXGroup;
+			children = (
+				614168CA2A2BB97400BC1A62 /* ChatViewModel.swift */,
+				614168CD2A2BBC1D00BC1A62 /* AudioBubbleView.swift */,
+				614168CF2A2BBE9E00BC1A62 /* UserBubbleView.swift */,
+			);
+			path = Chat;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +189,8 @@
 			dependencies = (
 			);
 			name = "ChatGTP-Audio";
+			packageProductDependencies = (
+			);
 			productName = "ChatGTP-Audio";
 			productReference = 61327EE72A2B76340005CD6A /* ChatGTP-Audio.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +219,8 @@
 				Base,
 			);
 			mainGroup = 61327EDE2A2B76340005CD6A;
+			packageReferences = (
+			);
 			productRefGroup = 61327EE82A2B76340005CD6A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,8 +235,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				614168C32A2BAE3300BC1A62 /* Elli.mp3 in Resources */,
+				614168C12A2BAE3300BC1A62 /* Josh.mp3 in Resources */,
+				614168D42A2BC0E500BC1A62 /* Antoni.mp3 in Resources */,
+				614168C02A2BAE3300BC1A62 /* Arnold.mp3 in Resources */,
+				614168D22A2BC08100BC1A62 /* Adam.mp3 in Resources */,
+				614168B52A2BAB3B00BC1A62 /* Rachel.mp3 in Resources */,
+				614168BA2A2BAE2A00BC1A62 /* Sam.mp3 in Resources */,
 				61327EF22A2B76350005CD6A /* Preview Assets.xcassets in Resources */,
+				614168C42A2BAE3300BC1A62 /* Domi.mp3 in Resources */,
 				61327EEF2A2B76350005CD6A /* Assets.xcassets in Resources */,
+				614168C22A2BAE3300BC1A62 /* Bella.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +256,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61327EF92A2B79990005CD6A /* ChatCPTViewModel.swift in Sources */,
+				61327F0C2A2B9FF00005CD6A /* SettingsView.swift in Sources */,
 				61327EED2A2B76340005CD6A /* ContentView.swift in Sources */,
+				61327EFB2A2B7BFE0005CD6A /* ChatGPTResponse.swift in Sources */,
 				61327EEB2A2B76340005CD6A /* ChatGTP_AudioApp.swift in Sources */,
+				614168C82A2BB27000BC1A62 /* ProgressView.swift in Sources */,
+				61327F022A2B9AF70005CD6A /* ElevenLabsManager.swift in Sources */,
+				61327F0E2A2BA20A0005CD6A /* AppSettings.swift in Sources */,
+				61327F002A2B9A280005CD6A /* ElevenlabsViewModel.swift in Sources */,
+				614168CE2A2BBC1D00BC1A62 /* AudioBubbleView.swift in Sources */,
+				614168C62A2BB26900BC1A62 /* ListView.swift in Sources */,
+				614168B32A2BA7D500BC1A62 /* VoiceList.swift in Sources */,
+				614168CB2A2BB97400BC1A62 /* ChatViewModel.swift in Sources */,
+				614168D02A2BBE9E00BC1A62 /* UserBubbleView.swift in Sources */,
+				61327F042A2B9C0C0005CD6A /* ElevenLabsAudioPlayerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
